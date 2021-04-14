@@ -1,2 +1,3 @@
 
 Wiiboard Application
+Bluetooth teknolojisine dayali beaconlara alternatif wifi çözümü... 
